@@ -3,9 +3,9 @@ age: 30
 city: New York
 is_student: false
 grades:
-- subject: Math
-grade: B
-- subject: English
-grade: B
-- subject: Science
-grade: B-
+  - subject: Math
+    grade: E
+  - subject: English
+    grade: E
+  - subject: Science
+    grade: E-
